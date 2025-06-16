@@ -1,4 +1,4 @@
-Github ini berisi tentang file-file dan code yang digunakan dalam Tugas Besar Machine Learning
+Github ini berisi tentang file-file dan code yang digunakan dalam Tugas Besar Machine Learning \n
 Nama Kelompok:
 1. Ahmad Ihda Falah Annur
 2. Marsha Trista Aulia
