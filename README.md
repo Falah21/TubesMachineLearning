@@ -1,3 +1,9 @@
+Github ini berisi tentang file-file dan code yang digunakan dalam Tugas Besar Machine Learning
+Nama Kelompok:
+1. Ahmad Ihda Falah Annur
+2. Marsha Trista Aulia
+3. Talitha Rahmadewati Witanto
+
 # Deskripsi Kolom Dataset Machine Learning
 
 | Kolom              | Deskripsi                                                                 |
