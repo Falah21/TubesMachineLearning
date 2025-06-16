@@ -1,8 +1,14 @@
-Github ini berisi tentang file-file dan code yang digunakan dalam Tugas Besar Machine Learning \n
-Nama Kelompok:
-1. Ahmad Ihda Falah Annur
-2. Marsha Trista Aulia
-3. Talitha Rahmadewati Witanto
+# Tugas Besar Machine Learning
+
+Repositori ini berisi file-file dan kode yang digunakan dalam Tugas Besar mata kuliah **Machine Learning**.
+
+## Nama Kelompok:
+- Ahmad Ihda Falah Annur  
+- Marsha Trista Aulia  
+- Talitha Rahmadewati Witanto
+
+## Deskripsi Singkat
+Tugas besar ini bertujuan untuk melakukan Penerapan Algoritma K-Means Dalam Segmentasi Pelanggan Berdasarkan Pendapatan (Income) dan Jumlah Pembelian (Purchases).
 
 # Deskripsi Kolom Dataset Machine Learning
 
