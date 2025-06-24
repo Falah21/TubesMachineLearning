@@ -7,6 +7,9 @@ Repositori ini berisi file-file dan kode yang digunakan dalam Tugas Besar mata k
 - Marsha Trista Aulia  
 - Talitha Rahmadewati Witanto
 
+## Code Colab:
+https://colab.research.google.com/drive/14k3TB2meCtSVALObUGeno6TEiVi6N6cZ?usp=sharing
+
 ## Deskripsi Singkat
 Tugas besar ini bertujuan untuk melakukan Penerapan Algoritma K-Means Dalam Segmentasi Pelanggan Berdasarkan Pendapatan (Income) dan Jumlah Pembelian (Purchases).
 
